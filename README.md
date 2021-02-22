@@ -1,3 +1,3 @@
-<h1 align="center">  👨🏽‍💻 Clones 📷 <a id="top"></a> </h1> 
+<h1 align="center">  Clone Instagram 📷 <a id="top"></a> </h1> 
 
  Repo com clones de alguns sites famosos para estudos e treinamento
